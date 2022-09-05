@@ -1,2 +1,2 @@
 #!/bi/bash
-echo */ | wc
+find . -type d ! -path . -print | wc -l
