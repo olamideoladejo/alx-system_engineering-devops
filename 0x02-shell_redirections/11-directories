@@ -1,2 +1,2 @@
 #!/bi/bash
-echo * | wc
+echo *.* | wc
